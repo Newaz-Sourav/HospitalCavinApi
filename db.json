@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Luxury VIP Suite",
-      "price": "5000 BDT",
+      "price": "6000 BDT",
       "description": "A premium cabin featuring a spacious layout, comfortable seating, a private bathroom, and a serene environment.",
       "img": "https://www.squarehospital.com/storage/images/1623908284.png"
     },
@@ -24,7 +24,7 @@
     {
       "id": 4,
       "name": "Executive Suite",
-      "price": "6000 BDT",
+      "price": "3500 BDT",
       "description": "High-end accommodation with luxury furnishings, personalized service, and enhanced comfort.",
       "img": "https://dcimch.com/hospital/wp-content/uploads/2018/09/IMG_1324-768x512.jpg"
     },
