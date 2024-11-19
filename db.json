@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Luxury VIP Suite",
+      "price": "5000 BDT",
+      "description": "A premium cabin featuring a spacious layout, comfortable seating, a private bathroom, and a serene environment.",
+      "img": "https://www.squarehospital.com/storage/images/1623908284.png"
+    },
+    {
+      "id": 2,
+      "name": "Deluxe Family Cabin",
+      "price": "4500 BDT",
+      "description": "Designed for family use with ample space, cozy interiors, and all essential amenities for a comfortable stay.",
+      "img": "https://www.popular-hospital.com/public/pmch/img/rate03.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Standard Private Room",
+      "price": "4000 BDT",
+      "description": "An affordable option providing privacy, a comfortable bed, and necessary facilities for patients.",
+      "img": "https://www.uhlbd.com/backend/web/post_uploads/1470462286IMG_0356.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Executive Suite",
+      "price": "6000 BDT",
+      "description": "High-end accommodation with luxury furnishings, personalized service, and enhanced comfort.",
+      "img": "https://dcimch.com/hospital/wp-content/uploads/2018/09/IMG_1324-768x512.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Budget Cabin",
+      "price": "3000 BDT",
+      "description": "A cost-effective cabin with basic amenities and a comfortable atmosphere for patients on a budget.",
+      "img": "https://lh4.googleusercontent.com/proxy/XRmPHwJnYkgYGsUGknnnvXhIUakV5zik0dp-jwg2CjDP58M59UuCMPWpb4sQwLwtrBtVlFijJ-eXuQglhZ4"
+    }
+  ]
+}
